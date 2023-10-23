@@ -1,16 +1,33 @@
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/6c0f9b95746151.5e9ecde69599e.gif" alt="Monkey" align="center">
+<img src="https://s6.gifyu.com/images/S6POU.gif" alt="Monkey" align="center">
 
 
-<h1 align="center">Hi 👋, I'm Oguz Kagan Bati</h1>
+<h1 align="center">Hello World! 👋</h1>
 <h3 align="center">A passionate full stack developer from Türkiye</h3>
 <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Coding Boy" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzkaganbati&label=Profile%20views&color=0e75b6&style=flat" alt="oguzkaganbati" /> </p>
 
-- 🔭 I’m currently working on **istanbulKodluyor**
+👨‍💻 Aspiring Full-Stack Developer 🚀 | Java ☕ | React ⚛️ | Continuous Learner 📚 | Passionate about Crafting Digital Experiences 💡
 
-- 🌱 I’m currently learning **Java and React**
+🌟 Welcome to my GitHub profile! I'm on a journey to become a full-stack developer, and I'm thrilled to have you along for the ride. Here's a bit about me:
+
+💻 Java Enthusiast: I'm diving deep into the world of Java, sipping on that coffee and writing code that makes things happen.
+
+⚛️ React Aficionado: I'm exploring the React ecosystem, building user-friendly and interactive web applications with JavaScript's favorite library.
+
+📚 Lifelong Learner: Learning is a never-ending adventure, and I'm here to embrace it. From algorithms to design patterns, I'm committed to honing my skills.
+
+🌐 Crafting Digital Experiences: I believe in the power of technology to shape the future. I'm on a mission to craft digital experiences that make a difference.
+
+🤝 Let's Connect: I'm open to collaboration, eager to learn from the community, and always up for a coding challenge. Feel free to reach out, and let's create something amazing together!
+
+📌 Currently Enrolled in "Istanbul Kodluyor(TOBETO)"
+
+🌍 Exploring the Boundless World of Coding, One Line at a Time.
+
+#FullStackDeveloper #Java #React #CodeJourney
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
