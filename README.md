@@ -1,5 +1,5 @@
 
-<img src="https://s6.gifyu.com/images/S6POU.gif" alt="Monkey" align="center">
+<img src="https://s6.gifyu.com/images/S6PG7.gif" alt="Banner" align="center">
 
 
 <h1 align="center">Hello World! 👋</h1>
