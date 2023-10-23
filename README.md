@@ -1,11 +1,10 @@
 
-[![Masterhead] (https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)]
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/6c0f9b95746151.5e9ecde69599e.gif" alt="Monkey" align="center">
 
-![Alt text]([http://full/path/to/img.jpg](https://static.vecteezy.com/system/resources/thumbnails/002/746/042/small_2x/programmer-flat-color-icon-computer-expert-man-coding-on-laptop-freelance-software-developer-at-work-person-avatar-cartoon-style-clip-art-for-mobile-app-isolated-rgb-illustration-vector.jpg "Optional title")
 
 <h1 align="center">Hi 👋, I'm Oguz Kagan Bati</h1>
 <h3 align="center">A passionate full stack developer from Türkiye</h3>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif" alt="Monkey" width="100" height="333">
+<img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Coding Boy" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzkaganbati&label=Profile%20views&color=0e75b6&style=flat" alt="oguzkaganbati" /> </p>
 
